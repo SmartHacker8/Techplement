@@ -1,0 +1,17 @@
+This quiz app is already compiled. For this project, I used JAVA+SQLite. so you need to download "DB Browser for SQLite" for accessing the database file. 
+
+
+Type this command in vscode Terminal to run this project.
+
+java -cp ".;sqlite-jdbc-3.46.0.0.jar;slf4j-api-1.7.36.jar;slf4j-simple-1.7.36.jar" Main
+
+
+
+Admin Login Details = 	username=admin	password=admin
+User Login Details=		username=sunil	password=sunil
+
+
+You can register new users also.
+
+
+
